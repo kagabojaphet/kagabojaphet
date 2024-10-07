@@ -7,6 +7,7 @@ I'm Japhet, a Software Developer with over 2years experience in web development 
 - **Tools**: Git, Postman, Figma, MongoDB & MySQL,Tailwindcss
 
 ### 🚀 Projects
+- my protifolio: https://kagabo-portifolio.vercel.app/
 - Project 1: https://wekraft.org/
 - Project 2: https://masterkraft.vercel.app/
 - project 3: https://kagabojaphet.github.io/frontend-kfashion/
@@ -14,5 +15,5 @@ I'm Japhet, a Software Developer with over 2years experience in web development 
 
 ### 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/kagabo-japhet-81961630a/
-- https://www.instagram.com/kagabo_japhet/
+- Instagram: https://www.instagram.com/kagabo_japhet/
 - Email: iradukundajaphet59@gmail.com
