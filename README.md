@@ -16,4 +16,4 @@ I'm Japhet, a Software Developer with over 2years experience in web development 
 ### 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/kagabo-japhet-81961630a/
 - Instagram: https://www.instagram.com/kagabo_japhet/
-- Email: iradukundajaphet59@gmail.com
+- Email: iradukundajaphet59@gmail.com/kagaboprogrammer@gmail.com
